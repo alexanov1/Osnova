@@ -1,0 +1,2 @@
+# Osnova
+Desk bord/ GitHube
